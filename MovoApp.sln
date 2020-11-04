@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1022
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MovoApp", "MovoApp\MovoApp.csproj", "{4302121E-8251-4842-BE13-4AF32D5EA002}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4302121E-8251-4842-BE13-4AF32D5EA002}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4302121E-8251-4842-BE13-4AF32D5EA002}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4302121E-8251-4842-BE13-4AF32D5EA002}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4302121E-8251-4842-BE13-4AF32D5EA002}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0956FD59-196C-44A8-B9AF-A8EE0BEEFB25}
+	EndGlobalSection
+EndGlobal
