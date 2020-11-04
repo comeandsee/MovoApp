@@ -5,13 +5,13 @@ using System.Web;
 
 namespace MovoApp.Helpers
 {
-    public class PayloadMsg
+    public class PayloadAuth
     {
         private string token;
         private string email;
         private string name;
 
-        public PayloadMsg(string token, string email, string name)
+        public PayloadAuth(string token, string email, string name)
         {
             this.Token = token;
             this.Email = email;
