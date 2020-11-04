@@ -26,5 +26,12 @@ namespace MovoApp.Controllers
 
             return View();
         }
+
+        public ActionResult Comments()
+        {
+            ViewBag.Message = "Your comments page.";
+
+            return View();
+        }
     }
 }
